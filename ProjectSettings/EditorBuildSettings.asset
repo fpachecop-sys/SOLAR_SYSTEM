@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SistemaSolar.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Tierra.unity
+    guid: 886199499138a6c4bb7be911ec6d14a2
+  - enabled: 1
+    path: Assets/Scenes/Urano.unity
+    guid: 4653cd89abfbcbb4bac9667f23f9daa2
+  - enabled: 1
+    path: Assets/Scenes/Venus.unity
+    guid: 810635d222a51e640860d94a15da7df4
+  - enabled: 1
+    path: Assets/Scenes/Jupiter.unity
+    guid: f12957ff2c6910146bbd1a58edb2c6d7
+  - enabled: 1
+    path: Assets/Scenes/Luna.unity
+    guid: 811fec4f097118c49b4692a9140a61a3
+  - enabled: 1
+    path: Assets/Scenes/Marte.unity
+    guid: b91719dbe72bce04cb1de594366dc5c7
+  - enabled: 1
+    path: Assets/Scenes/Mercurio.unity
+    guid: 426fc4b433e478541ad5dffdc31f9896
+  - enabled: 1
+    path: Assets/Scenes/Neptuno.unity
+    guid: 6d0b0d80b57eef3418e5d85170d18dbf
+  - enabled: 1
+    path: Assets/Scenes/Pluto.unity
+    guid: 62db7cfe9e606d143b201a3118c38407
+  - enabled: 1
+    path: Assets/Scenes/Saturno.unity
+    guid: 5782bec0e38a9ba42808e933ba31b73c
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f76c63ec46233904eb1863f36a9b44ec, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9240140bba5682a4c820d5ebdd85399b, type: 2}
